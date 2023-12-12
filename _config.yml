@@ -42,7 +42,7 @@ twitter: Alirezakzmi
 linkedin: alirezakazemi
 github: alireza-kazemi
 email: kazemi@ucdavis.edu
-
+google-scholar: citations?user=tNqE8B4AAAAJ&hl=en
 # authors:
 #   johndoe:
 #     name: John Doe
@@ -64,7 +64,7 @@ width: normal
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
-testing: true
+
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -97,7 +97,6 @@ defaults:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
       hidden: false
-
 
 
 plugins:
